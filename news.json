@@ -13,8 +13,6 @@
       "image": "patchnews.png"
     },
     { "title": "ТЕСТ НОВОСТЬ 1", "image": "news4.jpg" },
-    { "title": "НОВОСТЬ 5", "image": "news5.jpg" },
-    { "title": "НОВОСТЬ 6", "image": "news6.jpg" },
-    { "title": "НОВОСТЬ 7", "image": "news7.jpg" }
+    { "title": "ТЕСТ НОВОСТЬ 2", "image": "news5.jpg" },
   ]
 }
