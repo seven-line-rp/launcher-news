@@ -12,7 +12,8 @@
       "title": "ПАТЧ ОТ 27.05.2025",
       "image": "patchnews.png"
     },
-    { "title": "ТЕСТ НОВОСТЬ 1", "image": "news4.jpg" },
-    { "title": "ТЕСТ НОВОСТЬ 2", "image": "news5.jpg" }
+    { "title": "НАШИ СОЦИАЛЬНЫЕ СЕТИ", "image": "newssocial.jpg" },
+    { "title": "ТЕСТ НОВОСТЬ 2", "image": "news5.jpg" },
+    { "title": "ТЕСТ НОВОСТЬ 3", "image": "news6.jpg" },
   ]
 }
