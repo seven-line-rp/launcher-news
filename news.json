@@ -1,28 +1,16 @@
 {
   "news": [
     {
-      "title": "Тестовая новость 1",
-      "image": "https://yourdomain.com/news/news1.jpg"
+      "title": "Запуск проекта",
+      "image": "news1.jpg"
     },
     {
-      "title": "Тестовая новость 2",
-      "image": "https://yourdomain.com/news/news2.jpg"
+      "title": "Обновление модпака",
+      "image": "news2.jpg"
     },
     {
-      "title": "Тестовая новость 3",
-      "image": "https://yourdomain.com/news/news3.jpg"
-    },
-    {
-      "title": "Тестовая новость 4",
-      "image": "https://yourdomain.com/news/news4.jpg"
-    },
-    {
-      "title": "Тестовая новость 5",
-      "image": "https://yourdomain.com/news/news5.jpg"
-    },
-    {
-      "title": "Тестовая новость 6",
-      "image": "https://yourdomain.com/news/news6.jpg"
+      "title": "Новый конкурс",
+      "image": "news3.jpg"
     }
   ]
 }
