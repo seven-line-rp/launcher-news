@@ -1,19 +1,19 @@
 {
   "news": [
     {
-      "title": "НОВАЯ РАБОТА ОХОТНИКА!",
+      "title": "Новая работа Охотника",
       "image": "news1.jpg"
     },
     {
-      "title": "НОВАЯ РАБОТА ПИЛОТА!",
+      "title": "Новая работа Пилота",
       "image": "newspilot.jpg"
     },
     {
-      "title": "ПАТЧ ОТ 27.05.2025",
+      "title": "Новый патч уже доступен в игре!",
       "image": "patchnews.png"
     },
-    { "title": "НАШИ СОЦИАЛЬНЫЕ СЕТИ", "image": "newssocial.jpg" },
-    { "title": "ТЕСТ НОВОСТЬ 2", "image": "news5.jpg" },
+    { "title": "Наши социальные сети", "image": "newssocial.jpg" },
+    { "title": "Новые незабываемые ощущения", "image": "newssave.jpg" },
     { "title": "ТЕСТ НОВОСТЬ 3", "image": "news6.jpg" }
   ]
 }
