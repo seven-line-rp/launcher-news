@@ -2,18 +2,33 @@
   "news": [
     {
       "title": "Новая работа Охотника",
-      "image": "news1.jpg"
+      "image": "news1.jpg",
+      "link": "https://vk.com/wall-228833577_40"
     },
     {
       "title": "Новая работа Пилота",
-      "image": "newspilot.jpg"
+      "image": "newspilot.jpg",
+      "link": "https://vk.com/wall-228833577_38"
     },
     {
       "title": "Новый патч уже доступен в игре!",
-      "image": "patchnews.png"
+      "image": "patchnews.png",
+      "link": "https://vk.com/wall-228833577_31"
     },
-    { "title": "Наши социальные сети", "image": "newssocial.jpg" },
-    { "title": "Новые незабываемые ощущения", "image": "newssave.jpg" },
-    { "title": "Обновление полиции уже доступно в игре!", "image": "newspolice.png" }
+    {
+      "title": "Наши социальные сети",
+      "image": "newssocial.jpg",
+      "link": "https://vk.com/wall-228833577_24"
+    },
+    {
+      "title": "Новые незабываемые ощущения",
+      "image": "newssave.jpg",
+      "link": "https://vk.com/wall-228833577_21"
+    },
+    {
+      "title": "Обновление полиции уже доступно в игре!",
+      "image": "newspolice.png",
+      "link": "https://vk.com/wall-228833577_19"
+    }
   ]
 }
