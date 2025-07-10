@@ -1,6 +1,11 @@
 {
   "news": [
     {
+      "title": "ГОТОВЬСЯ К ГОНКЕ ЛЕГЕНД",
+      "image": "RACE-SRP.png",
+      "link": "https://vk.com/wall-228833577_44"
+    },
+    {
       "title": "Новая работа Охотника",
       "image": "news1.jpg",
       "link": "https://vk.com/wall-228833577_40"
@@ -24,11 +29,6 @@
       "title": "Новые незабываемые ощущения",
       "image": "newssave.jpg",
       "link": "https://vk.com/wall-228833577_21"
-    },
-    {
-      "title": "Обновление полиции уже доступно в игре!",
-      "image": "newspolice.png",
-      "link": "https://vk.com/wall-228833577_19"
     }
   ]
 }
